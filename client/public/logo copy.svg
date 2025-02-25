@@ -1,0 +1,18 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 200"
+  width="200"
+  height="200"
+  style="background-color: transparent;"
+>
+  <!-- Книга -->
+  <rect x="0" y="0" width="200" height="200" fill="#fff" stroke="#000" stroke-width="2" rx="10" />
+  <line x1="100" y1="0" x2="100" y2="200" stroke="#000" stroke-width="2" />
+
+  <!-- Камера -->
+  <circle cx="100" cy="100" r="40" fill="#fff" stroke="#000" stroke-width="2" />
+  <circle cx="100" cy="100" r="20" fill="#000" />
+  <circle cx="100" cy="100" r="10" fill="#fff" />
+
+
+</svg>
